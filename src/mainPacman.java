@@ -18,7 +18,6 @@ public class pacmanMain extends JPanel implements KeyListener, ActionListener{
 		mainFrame = new JFrame("Main Menu");
         mainFrame.setPreferredSize(new Dimension(800, 800));
         mainFrame.setLocation(200, 200);
-
         mainPanel = new JPanel();
 	}
 	
