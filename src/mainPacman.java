@@ -1,6 +1,6 @@
 // By: Daniyaal Farooqi and Aswin Kuganesan
 // December 17, 2019
-// PACMAN
+// PACMAN 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
